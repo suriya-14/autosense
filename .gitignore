@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+wakevision_env/
+venv/
+.env/
+
+# Telemetry & reports (generated at runtime)
+wakevision_telemetry_*.csv
+wakevision_report_*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
